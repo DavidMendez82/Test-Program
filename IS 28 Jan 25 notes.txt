@@ -1,0 +1,65 @@
+git@github.com:DavidMendez82/What-Cha-Doing-.git
+
+
+youtube video every computer component explained in 3 mins 
+
+RAM storage is wiped when off.
+Secondary storage- SSD(solid state drive) faster than disk drive
+Input devices- keyboard mouse, scanner etc.
+output devices- printer, video display, disk drives
+Software- 2 categories 1. application software, 2. system software
+1. application software 
+2. system software OS, utility program software development tools
+
+How data is stored- in sequences of 0s and 1s
+	Byte- just enough memory to store a letter or number of 8 bits
+Bit represents 0 and 1 as values
+
+Computer  use binary numbering system
+
+0   0  1  0  1 1 0 1
+       2     2 2   2 with a power of 0 moving up by one from 0-7 this is known as the position value.
+
+128 64 32 16 8 4 2 1
+
+             1 0 0 1
+             2     2
+
+ASCII is limited: defines codes for only 128 characters
+Unicode coding scheme becoming standard
+	this is compabatible with ASCII
+	represent characters ....
+
+Look up ACSII coding scheme
+
+
+using the table code your name
+ 01000100  01100001 01110110 01101001 01100100
+
+name_to_binary("David")
+
+
+
+Fetch- read the next instruction from memory into CPU
+Decode CPU decodes fetched instruction to determine which operation to 
+Execute perform the operation
+
+Assembly language0 uses short words( mnemonics) instead of binary#s
+	2 types
+	low level language- think assembly language
+	High level language- more intuitive to understand, no need to know how CPU works
+
+Keywords- predefined words used to write a program has specific meaning
+Operators performs operations on data
+Syntax- 
+Statement
+
+Python keywords (will turn blue or purple if a keyword below)
+		and, continue, finally, is, raise, as, def, for lamba return, asser del from. 
+
+
+
+Python uses interpreter to take a code and writes one instruction at a time No separate machine language needed
+
+Source code: statements written by programmer
+	Syntax error prevents code from being translated
